@@ -1,0 +1,4 @@
+Name: Abraham Kimmelmann
+Birthplace: Dąbrowa Górnicza, Poland
+Nationality: Poland
+Gender: male

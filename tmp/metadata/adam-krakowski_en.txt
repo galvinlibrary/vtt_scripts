@@ -1,0 +1,4 @@
+Name: Adam Krakowski
+Birthplace: Łódź, Poland
+Nationality: Poland
+Gender: male

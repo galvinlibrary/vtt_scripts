@@ -1,0 +1,4 @@
+Name: Otto Feuer
+Birthplace: Wien, Austria
+Nationality: Poland
+Gender: male

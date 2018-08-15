@@ -1,0 +1,4 @@
+Name: Esther Krueger
+Birthplace: Kielce, Poland
+Nationality: Poland
+Gender: female

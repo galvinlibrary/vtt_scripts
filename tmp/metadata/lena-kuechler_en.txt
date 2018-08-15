@@ -1,0 +1,4 @@
+Name: Lena Kuechler
+Birthplace: Wieliczka, Poland
+Nationality: Poland
+Gender: female

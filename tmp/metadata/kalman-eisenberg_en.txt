@@ -1,0 +1,4 @@
+Name: Kalman Eisenberg
+Birthplace: Starachowice, Poland
+Nationality: Germany
+Gender: male

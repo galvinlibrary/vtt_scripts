@@ -1,0 +1,4 @@
+Name: Janis Kalnietis
+Birthplace: Rūjiena, Latvia
+Nationality: Latvia
+Gender: male

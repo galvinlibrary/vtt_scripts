@@ -1,0 +1,4 @@
+Name: Julian Weinberg
+Birthplace: Łódź, Poland
+Nationality: Poland
+Gender: male

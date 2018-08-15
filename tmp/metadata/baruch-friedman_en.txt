@@ -1,0 +1,4 @@
+Name: Baruch Friedman
+Birthplace: Kurima, Slovakia
+Nationality: Slovakia
+Gender: male

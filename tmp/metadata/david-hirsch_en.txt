@@ -1,0 +1,4 @@
+Name: David Hirsch
+Birthplace: unknown
+Nationality: Germany
+Gender: male

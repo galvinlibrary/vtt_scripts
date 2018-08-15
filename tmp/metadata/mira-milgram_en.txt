@@ -1,0 +1,4 @@
+Name: Mira Milgram
+Birthplace: Poznań, Poland
+Nationality: Poland
+Gender: female

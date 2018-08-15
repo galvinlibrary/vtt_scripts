@@ -1,0 +1,4 @@
+Name: Helen Tichauer
+Birthplace: Bratislava, Slovakia
+Nationality: Czechoslovakia
+Gender: female

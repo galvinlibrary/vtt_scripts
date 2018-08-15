@@ -1,0 +1,4 @@
+Name: Lt. André Richard
+Birthplace: 
+Nationality: France
+Gender: male

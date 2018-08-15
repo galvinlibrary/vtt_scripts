@@ -1,0 +1,4 @@
+Name: Arthur Breslauer
+Birthplace: unknown
+Nationality: Hungary
+Gender: male
