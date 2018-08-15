@@ -1,27 +1,32 @@
 require 'YAML'
 
-# Create array of YAML files from data directory
-yml_files = Dir["data/*.yml"]
+def get_files(filepath)
+  # Create array of YAML files from data directory
+  Dir[filepath]
+end
 
 # Method to strip out cruft from filenames for naming VTT files
 def strip_filenames(file)
   file.split('/')[1].split('.')[0]
 end
 
-def parse_files(files)
+def parse_metadata(files)
+  # Metadata about interview for different file
+  #puts "Metadata:"
+  #puts thing["interviewee"]
+  #puts "Language of transcript:"
+  #puts yaml_data["recording"]["transcript"]["language"]
+end
+
+def parse_translations(files)
+end
+
+def parse_transcripts(files)
   files.each do |yaml_file|
     yaml_data = YAML.load_file(yaml_file)
 
-    # Metadata about interview for different file
-    #puts "Metadata:"
-    #puts thing["interviewee"]
-    #puts "Language of transcript:"
-    #puts yaml_data["recording"]["transcript"]["language"]
-
     split_file = strip_filenames(yaml_file)
-
-    # grab language as var for transcript vs translation
-
+    
     # Open file and write header
     File.open("tmp/#{split_file}.vtt", 'w') { |file| file.puts("WEBVTT") }
     # Newline
@@ -45,4 +50,4 @@ def parse_files(files)
   end
 end
 
-parse_files(yml_files)
+parse_transcripts(get_files("data/*.yml"))
