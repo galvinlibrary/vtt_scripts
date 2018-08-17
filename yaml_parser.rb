@@ -1,4 +1,5 @@
 require 'YAML'
+require 'CSV'
 
 # Create array of YAML files from data directory
 def get_files(filepath)
@@ -12,32 +13,62 @@ end
 
 # Interview metadata into txt file?
 def parse_metadata(files)
+  # Open file and write headers
+  CSV.open("tmp/metadata/metadata.csv", "wb") do |csv|
+    csv << [
+      "identifier",
+      "legacy_identifier",
+      "name",
+      "birthplace",
+      "nationality",
+      "gender",
+      "locations - invasion",
+      "locations - internments",
+      "locations - liberation - date",
+      "locations - liberation - location",
+      "locations - liberation - by",
+      "date", "recording location",
+      "recording languages",
+      "recording duration",
+      "recording spools",
+      "audio - file",
+      "audo - mime-type",
+      "credits - who, role",
+      "commentary - text",
+      "commentary - attribution"
+    ]
+  end
+  # Iterate through each file and write metadata to a row in CSV
   files.each do |yaml_file|
     yaml_data = YAML.load_file(yaml_file)
 
     split_file = strip_filenames(yaml_file)
-
     # Make sure the file has data in it
     if yaml_data
-      if yaml_data["recording"]["translation"]
-        language = yaml_data["recording"]["translation"]["language"]
-      else
-        language = "none"
-      end
-      # Open file and write header
-      File.open("tmp/metadata/#{split_file}_#{language}.txt", 'w') do |f|
-        f.puts "Name: #{yaml_data["interviewee"]["name"]}"
-        f.puts "Birthplace: #{yaml_data["interviewee"]["birthplace"]}"
-        f.puts "Nationality: #{yaml_data["interviewee"]["nationality"]}"
-        f.puts "Gender: #{yaml_data["interviewee"]["gender"]}"
-        #f.puts "Name: #{yaml_data["interviewee"]["name"]}"
-        #f.puts "Name: #{yaml_data["interviewee"]["name"]}"
-        #f.puts "Name: #{yaml_data["interviewee"]["name"]}"
-        #f.puts "Name: #{yaml_data["interviewee"]["name"]}"
-        #f.puts "Name: #{yaml_data["interviewee"]["name"]}"
-        #f.puts "Name: #{yaml_data["interviewee"]["name"]}"
-        #f.puts "Name: #{yaml_data["interviewee"]["name"]}"
-        #f.puts "Name: #{yaml_data["interviewee"]["name"]}"
+      CSV.open("tmp/metadata/metadata.csv", "ab") do |csv|
+        csv << [
+         "#{yaml_data["interviewee"]["identifier"]}",
+         "#{yaml_data["interviewee"]["legacy_identifier"]}",
+         "#{yaml_data["interviewee"]["name"]}",
+         "#{yaml_data["interviewee"]["birthplace"]}",
+         "#{yaml_data["interviewee"]["nationality"]}",
+         "#{yaml_data["interviewee"]["gender"]}",
+         "#{yaml_data["interviewee"]["locations"]["invasion"]}",
+         "#{yaml_data["interviewee"]["locations"]["internments"]}",
+         "#{yaml_data["interviewee"]["locations"]["liberation"]["date"]}",
+         "#{yaml_data["interviewee"]["locations"]["liberation"]["location"]}",
+         "#{yaml_data["interviewee"]["locations"]["liberation"]["by"]}",
+         "#{yaml_data["recording"]["date"]}",
+         "#{yaml_data["recording"]["location"]}",
+         "#{yaml_data["recording"]["languages"]}",
+         "#{yaml_data["recording"]["duration"]}",
+         "#{yaml_data["recording"]["spools"]}",
+         "#{yaml_data["recording"]["audio"]["file"]}",
+         "#{yaml_data["recording"]["audio"]["mime-type"]}",
+         "#{yaml_data["recording"]["credits"]}",
+         "#{yaml_data["recording"]["commentary"]["text"]}",
+         "#{yaml_data["recording"]["commentary"]["attribution"]}"
+       ]
       end
     else
       puts "#{split_file} has no data. Check to make sure it has content!"
@@ -129,6 +160,7 @@ def parse_transcripts(files)
   end
 end
 
+# Call all method
 parse_metadata(get_files("data/*.yml"))
 parse_transcripts(get_files("data/*.yml"))
 parse_translations(get_files("data/*.yml"))
