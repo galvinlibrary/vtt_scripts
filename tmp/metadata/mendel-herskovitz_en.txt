@@ -1,4 +1,0 @@
-Name: Mendel Herskovitz
-Birthplace: Łódź, Poland
-Nationality: Poland
-Gender: male

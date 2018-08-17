@@ -1,4 +1,0 @@
-Name: Hildegarde Franz
-Birthplace: Nürnberg, Germany
-Nationality: Germany
-Gender: female

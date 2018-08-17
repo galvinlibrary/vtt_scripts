@@ -1,4 +1,0 @@
-Name: Bernard Warsager
-Birthplace: Tomaszów Mazowiecki, Poland
-Nationality: Poland
-Gender: male

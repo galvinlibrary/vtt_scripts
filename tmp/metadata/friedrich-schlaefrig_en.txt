@@ -1,4 +1,0 @@
-Name: Friedrich Schlaefrig
-Birthplace: Mistelbach, Austria
-Nationality: Austria
-Gender: male

@@ -1,4 +1,0 @@
-Name: Dr. Jacob Wilf
-Birthplace: L'viv, Ukraine
-Nationality: unknown
-Gender: male

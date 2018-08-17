@@ -1,4 +1,0 @@
-Name: Clara Neiman
-Birthplace: Saratov, Russia
-Nationality: Russia
-Gender: female

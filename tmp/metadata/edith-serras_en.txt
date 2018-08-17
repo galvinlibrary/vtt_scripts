@@ -1,4 +1,0 @@
-Name: Edith Serras
-Birthplace: Edineţ, Romania
-Nationality: Romania
-Gender: female

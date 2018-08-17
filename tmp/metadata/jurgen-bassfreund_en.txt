@@ -1,4 +1,0 @@
-Name: Jürgen Bassfreund
-Birthplace: Bernkastel-Kues, Germany
-Nationality: Germany
-Gender: male

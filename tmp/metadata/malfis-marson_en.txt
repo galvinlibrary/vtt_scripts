@@ -1,4 +1,0 @@
-Name: Malfis Marson
-Birthplace: Paris, France
-Nationality: France
-Gender: male

@@ -1,4 +1,0 @@
-Name: Ioan Kharchenko
-Birthplace: Vilnius, Lithuania
-Nationality: Lithuania
-Gender: male

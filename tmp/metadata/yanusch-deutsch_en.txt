@@ -1,4 +1,0 @@
-Name: Yanusch Deutsch
-Birthplace: Székesfehérvár, Hungary
-Nationality: Hungary
-Gender: male

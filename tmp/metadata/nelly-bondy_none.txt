@@ -1,4 +1,0 @@
-Name: Nelly Bondy
-Birthplace: Wien, Austria
-Nationality: Austria
-Gender: female

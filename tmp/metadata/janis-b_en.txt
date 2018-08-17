@@ -1,4 +1,0 @@
-Name: Janis B.
-Birthplace: Rīga, Latvia
-Nationality: Latvia
-Gender: male

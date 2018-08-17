@@ -1,4 +1,0 @@
-Name: Jacob Button
-Birthplace: Thessaloníki, Greece
-Nationality: Spain
-Gender: male

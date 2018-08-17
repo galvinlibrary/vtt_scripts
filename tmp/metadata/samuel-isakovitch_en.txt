@@ -1,4 +1,0 @@
-Name: Samuel Isakovitch
-Birthplace: Sighetu Marmaţiei, Romania
-Nationality: Romania
-Gender: male

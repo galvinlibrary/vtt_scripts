@@ -1,4 +1,0 @@
-Name: David Lea
-Birthplace: Thessaloníki, Greece
-Nationality: Greece
-Gender: male

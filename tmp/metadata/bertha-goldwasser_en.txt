@@ -1,4 +1,0 @@
-Name: Bertha Goldwasser
-Birthplace: unknown
-Nationality: Poland
-Gender: female

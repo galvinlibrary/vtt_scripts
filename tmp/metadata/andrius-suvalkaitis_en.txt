@@ -1,4 +1,0 @@
-Name: Andrius Suvalkaitis
-Birthplace: VilkaviÅkis, Lithuania
-Nationality: Lithuania
-Gender: male

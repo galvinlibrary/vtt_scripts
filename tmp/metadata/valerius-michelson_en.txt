@@ -1,4 +1,0 @@
-Name: Valerius Michelson
-Birthplace: Tallinn, Estonia
-Nationality: Russia
-Gender: male

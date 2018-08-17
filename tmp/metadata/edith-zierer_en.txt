@@ -1,4 +1,0 @@
-Name: Edith Zierer
-Birthplace: Katowice, Poland
-Nationality: Poland
-Gender: female

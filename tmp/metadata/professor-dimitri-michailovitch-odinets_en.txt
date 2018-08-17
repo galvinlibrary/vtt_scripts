@@ -1,4 +1,0 @@
-Name: Professor Dimitri Michailovitch Odinets
-Birthplace: Paris, France
-Nationality: Russia
-Gender: male

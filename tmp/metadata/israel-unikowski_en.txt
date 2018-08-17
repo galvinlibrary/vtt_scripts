@@ -1,4 +1,0 @@
-Name: Israel Unikowski
-Birthplace: Kalisz, Poland
-Nationality: Poland
-Gender: male

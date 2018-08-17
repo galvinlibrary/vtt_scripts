@@ -1,4 +1,0 @@
-Name: Gert Silberbart
-Birthplace: Berlin, Germany
-Nationality: Germany
-Gender: male

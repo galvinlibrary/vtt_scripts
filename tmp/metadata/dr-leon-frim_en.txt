@@ -1,4 +1,0 @@
-Name: Dr. Leon Frim
-Birthplace: L'viv, Ukraine
-Nationality: Poland
-Gender: male

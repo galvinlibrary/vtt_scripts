@@ -1,4 +1,0 @@
-Name: Dr. Maximillian Lipschitz
-Birthplace: Neuschonstau, Czechoslovakia
-Nationality: unknown
-Gender: male

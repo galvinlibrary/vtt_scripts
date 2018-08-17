@@ -1,4 +1,0 @@
-Name: Udel Stopnitsky
-Birthplace: Będzin, Poland
-Nationality: Poland
-Gender: male

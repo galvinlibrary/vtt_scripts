@@ -1,4 +1,0 @@
-Name: Fira Monk
-Birthplace: Paris, France
-Nationality: Russia
-Gender: female

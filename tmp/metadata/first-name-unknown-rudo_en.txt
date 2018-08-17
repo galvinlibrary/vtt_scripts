@@ -1,4 +1,0 @@
-Name: [first name unknown] Rudo
-Birthplace: Castelló d'Empúries, Spain
-Nationality: Spain
-Gender: female

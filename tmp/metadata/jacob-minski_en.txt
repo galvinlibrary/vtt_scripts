@@ -1,4 +1,0 @@
-Name: Jacob Minski
-Birthplace: Zurich, Switzerland
-Nationality: Poland
-Gender: male

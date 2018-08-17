@@ -1,4 +1,0 @@
-Name: Nino Barzilai
-Birthplace: Thessaloníki, Greece
-Nationality: Portugal
-Gender: male

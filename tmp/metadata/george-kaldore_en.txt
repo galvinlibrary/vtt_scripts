@@ -1,4 +1,0 @@
-Name: George Kaldore
-Birthplace: Szombathely, Hungary
-Nationality: Hungary
-Gender: male

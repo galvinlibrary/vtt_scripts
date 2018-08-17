@@ -1,4 +1,0 @@
-Name: Jacques Bramson
-Birthplace: unknown
-Nationality: France
-Gender: male

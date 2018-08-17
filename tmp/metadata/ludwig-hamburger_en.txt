@@ -1,4 +1,0 @@
-Name: Ludwig Hamburger
-Birthplace: Katowice, Poland
-Nationality: Poland
-Gender: male

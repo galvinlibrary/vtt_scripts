@@ -1,4 +1,0 @@
-Name: Sigmund Reich
-Birthplace: Kraków, Poland
-Nationality: unknown
-Gender: male

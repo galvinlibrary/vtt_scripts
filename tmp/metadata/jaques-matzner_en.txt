@@ -1,4 +1,0 @@
-Name: Jaques Matzner
-Birthplace: Wiesbaden, Germany
-Nationality: Poland
-Gender: male

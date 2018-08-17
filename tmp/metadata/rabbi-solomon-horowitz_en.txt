@@ -1,4 +1,0 @@
-Name: Rabbi Solomon Horowitz
-Birthplace: Zolotyy Potik, Poland
-Nationality: Poland
-Gender: male

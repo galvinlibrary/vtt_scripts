@@ -1,4 +1,0 @@
-Name: Jean Louis Kahn
-Birthplace: Paris, France
-Nationality: France
-Gender: male

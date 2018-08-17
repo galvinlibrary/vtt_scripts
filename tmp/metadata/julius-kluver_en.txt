@@ -1,4 +1,0 @@
-Name: Julius Klüver
-Birthplace: Dniprovs'ke, Ukraine
-Nationality: Ukraine
-Gender: male

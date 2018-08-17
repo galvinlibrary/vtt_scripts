@@ -1,4 +1,0 @@
-Name: Boleslaw Czolopicki
-Birthplace: Warsaw, Poland
-Nationality: Poland
-Gender: male
