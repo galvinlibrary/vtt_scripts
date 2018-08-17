@@ -54,18 +54,18 @@ def parse_metadata(files)
          "#{yaml_data["interviewee"]["nationality"]}",
          "#{yaml_data["interviewee"]["gender"]}",
          "#{yaml_data["interviewee"]["locations"]["invasion"]}",
-         "#{yaml_data["interviewee"]["locations"]["internments"]}",
+         "#{yaml_data["interviewee"]["locations"]["internments"].join(", ")}",
          "#{yaml_data["interviewee"]["locations"]["liberation"]["date"]}",
          "#{yaml_data["interviewee"]["locations"]["liberation"]["location"]}",
          "#{yaml_data["interviewee"]["locations"]["liberation"]["by"]}",
          "#{yaml_data["recording"]["date"]}",
          "#{yaml_data["recording"]["location"]}",
-         "#{yaml_data["recording"]["languages"]}",
+         "#{yaml_data["recording"]["languages"].join(", ")}",
          "#{yaml_data["recording"]["duration"]}",
-         "#{yaml_data["recording"]["spools"]}",
+         "#{yaml_data["recording"]["spools"].join(", ")}",
          "#{yaml_data["recording"]["audio"]["file"]}",
          "#{yaml_data["recording"]["audio"]["mime-type"]}",
-         "#{yaml_data["recording"]["credits"]}",
+         "#{yaml_data["recording"]["credits"].map {|hash| hash.values}.join(", ")}",
          "#{yaml_data["recording"]["commentary"]["text"]}",
          "#{yaml_data["recording"]["commentary"]["attribution"]}"
        ]
@@ -162,5 +162,5 @@ end
 
 # Call all method
 parse_metadata(get_files("data/*.yml"))
-parse_transcripts(get_files("data/*.yml"))
-parse_translations(get_files("data/*.yml"))
+#parse_transcripts(get_files("data/*.yml"))
+#parse_translations(get_files("data/*.yml"))
