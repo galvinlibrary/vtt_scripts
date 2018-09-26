@@ -160,7 +160,7 @@ def parse_transcripts(files)
   end
 end
 
-# Call all method
+# Call all methods. Comment out any that you don't need to speed up the process
 parse_metadata(get_files("data/*.yml"))
-#parse_transcripts(get_files("data/*.yml"))
-#parse_translations(get_files("data/*.yml"))
+parse_transcripts(get_files("data/*.yml"))
+parse_translations(get_files("data/*.yml"))
