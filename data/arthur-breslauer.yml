@@ -2842,10 +2842,7 @@ recording:
       end:
         sec: '69.295'
         mark: '00:01:09.295'
-      u: 'Stock broker.Translator’s note: Breslauer uses the German words “Effektenhändler”
-        and “Wertpapierhändler,” which in today’s usage are more or less equivalent.
-        In contemporary usage, however, the term “Effekten” may have had a slightly
-        different field of reference.1'
+      u: 'Stock broker.
     - who: David Boder
       start:
         sec: '69.295'
@@ -2993,14 +2990,7 @@ recording:
         sec: '145.071'
         mark: '00:02:25.071'
       u: I was at home in Budapest. And when the deportations started in 1944 and
-        when they took place in a large scale, in the province...Following the German
-        occupation of Hungary, a series of decrees brought about the isolation, marking,
-        plundering and ghettoization of the Jewish population. Deportation of Jews
-        from the Hungarian provinces to Auschwitz began on May 15, 1944. From then
-        until July 9th, 1944 when the deportations were halted, 434,351 Jews were
-        deported. Most were murdered in the gas chambers of Auschwitz-Birkenau upon
-        arrival. During this time, the Jews of Budapest, the Hungarian capital, were
-        spared.2
+        when they took place in a large scale, in the province...
     - who: David Boder
       start:
         sec: '145.071'
@@ -3084,8 +3074,7 @@ recording:
         mark: '00:03:35.864'
       u: Society, that, if not already happened, everybody can practice their Jewish
         culture...and as it turned out, err, this announcement had only the goal to,
-        to, not to...The deceptive practices of the Nazis in combination with the
-        naiveté of the potential victims contributed to a tragic outcome.3
+        to, not to...
     - who: David Boder
       start:
         sec: '215.864'
@@ -3217,8 +3206,7 @@ recording:
       end:
         sec: '300.766'
         mark: '00:05:00.766'
-      u: They told us Spain.The transport ostensibly left for neutral Spain or Switzerland
-        but was diverted to Bergen-Belsen.4
+      u: They told us Spain.
     - who: David Boder
       start:
         sec: '300.766'
@@ -3269,8 +3257,7 @@ recording:
         mark: '00:05:46.127'
       u: It was a man called Dr. Kasztner. He organized it. And that was a great,
         a generous, a great plan, which was only realized in part. Our group was a
-        so-called model-group.Breslauer is referring here to Rudolf Kasztner. He is
-        obviously and understandably a staunch defender of the Kasztner plan.5
+        so-called model-group.
     - who: David Boder
       start:
         sec: '346.127'
@@ -3633,8 +3620,7 @@ recording:
       end:
         sec: '494.282'
         mark: '00:08:14.282'
-      u: Well, how long was the train ride from Budapest to Belsen-Belsen?Boder repeatedly
-        mispronounces “Bergen-Belsen” as “Belsen-Belsen.”6
+      u: Well, how long was the train ride from Budapest to Belsen-Belsen?
     - who: Arthur Breslauer
       start:
         sec: '494.282'
@@ -3722,10 +3708,7 @@ recording:
       end:
         sec: '522.099'
         mark: '00:08:42.099'
-      u: But it was a horrible ride.The train ride Breslauer describes was no doubt
-        terribly trying, yet it cannot compare with the nightmarish rail journeys
-        taken by several million Jews to extermination centers on which the old and
-        the very young often perished before the journey’s end.7
+      u: But it was a horrible ride.
     - who: David Boder
       start:
         sec: '522.099'
@@ -3918,11 +3901,7 @@ recording:
       end:
         sec: '609.401'
         mark: '00:10:09.401'
-      u: Well, we were in a so-called “privileged” group.A so-called Hungarian camp
-        was established at Bergen-Belsen on July 8, 1944 to hold the Jews of the Kasztner
-        transport. The prisoners were allowed to wear their own clothes but also had
-        to display the yellow badge. As noted by Breslauer, they were not made to
-        do forced labor and did not have to subsist on starvation rations.8
+      u: Well, we were in a so-called “privileged” group.
     - who: David Boder
       start:
         sec: '609.401'
@@ -3987,10 +3966,7 @@ recording:
       end:
         sec: '643.870'
         mark: '00:10:43.870'
-      u: The Hungarian group, to which also many Yugoslavs and Romanians belonged.Breslauer
-        might be referring here to Jews from Romanian and Yugoslavian territories,
-        northern Transylvania and Backa respectively, annexed by German-allied Hungary
-        in 1940 and 1941.9
+      u: The Hungarian group, to which also many Yugoslavs and Romanians belonged.
     - who: David Boder
       start:
         sec: '643.870'
@@ -4184,8 +4160,7 @@ recording:
         sec: '740.300'
         mark: '00:12:20.300'
       u: Yes, but only three hundred people were taken away. The rest stayed there
-        until December 7th.The second Kasztner transport actually left from Bergen-Belsen
-        for Switzerland on December 6, 1944.10
+        until December 7th.
     - who: David Boder
       start:
         sec: '740.300'
@@ -4368,9 +4343,7 @@ recording:
         sec: '875.041'
         mark: '00:14:35.041'
       u: An “Obergruppenführer” came and told us, and then decided who would come
-        and who would stay.In the SS, an Obergruppenführer (literally, “Senior Group
-        Leader”) was the equivalent of a general. Here, the term is most probably
-        used by Breslauer to refer to a high-ranking SS officer.11
+        and who would stay.
     - who: David Boder
       start:
         sec: '875.041'
@@ -4434,8 +4407,7 @@ recording:
       end:
         sec: '900.947'
         mark: '00:15:00.947'
-      u: Then, on August 21st, we arrived here in Basel.This was the transport sent
-        from Bergen-Belsen to Switzerland on August 18, 1944.12
+      u: Then, on August 21st, we arrived here in Basel.
     - who: David Boder
       start:
         sec: '900.947'
@@ -4479,12 +4451,7 @@ recording:
       end:
         sec: '948.293'
         mark: '00:15:48.293'
-      u: What is Kolozsvár?Kolozsvár, also known as Cluj, was the capital of Hungarian-ruled
-        northern Transylvania. It had a number of politically active Zionist leaders
-        including Rudolf Kasztner. Kasztner visited Kolozsvár on May 4th and 5th,
-        1944. Shortly thereafter, 388 Jews, including many of his relatives and friends,
-        were transported from the city’s ghetto to Budapest where they became part
-        of the Kasztner transport.13
+      u: What is Kolozsvár?
     - who: Arthur Breslauer
       start:
         sec: '948.293'
@@ -4532,9 +4499,7 @@ recording:
       end:
         sec: '971.719'
         mark: '00:16:11.719'
-      u: Oh! It was the Alía. And they put this group together?Breslauer might be
-        referring here to the Hungarian Zionist movement’s Relief and Rescue Committee
-        in which Kasztner and several other Jews from Transylvania played a role.14
+      u: Oh! It was the Alía. And they put this group together?
     - who: Arthur Breslauer
       start:
         sec: '971.719'
@@ -4720,8 +4685,7 @@ recording:
       end:
         sec: '1067.941'
         mark: '00:17:47.941'
-      u: War-relevant goods. But I don’t know any details.In fact, this exchange for
-        war-related goods never took place due to the opposition of Allied governments.15
+      u: War-relevant goods. But I don’t know any details.
     - who: David Boder
       start:
         sec: '1067.941'
@@ -4787,9 +4751,7 @@ recording:
       end:
         sec: '1104.466'
         mark: '00:18:24.466'
-      u: Unfortunately not.Indeed, Kasztner saw the transport he organized as an initial
-        effort to rescue Jews. He hoped, in vain as it turned out, that it would set
-        a precedent for subsequent transports.16
+      u: Unfortunately not.
     - who: David Boder
       start:
         sec: '1104.466'
@@ -4894,9 +4856,7 @@ recording:
       end:
         sec: '1137.982'
         mark: '00:18:57.982'
-      u: 'Were you [frisked] there?Translator’s note: The German original uses “verpediert.”
-        Even though it sounds like a German participle, no such word exists in German.
-        What he means, probably, is “searched” or “frisked.”17'
+      u: 'Were you [frisked] there?
     - who: Arthur Breslauer
       start:
         sec: '1137.982'
@@ -5036,11 +4996,7 @@ recording:
         mark: '00:20:23.759'
       u: Right away, then, we were given soup and fruits; we were taken to a bathhouse.
         And afterwards, they accommodated us and after three days we were taken to
-        different places in the country. We came to Montreux.Although neutral Switzerland
-        took in Jews from the Kasztner transport and some other Jewish refugees as
-        well, Swiss officialdom was on the whole hostile to Jews seeking refuge in
-        their country and, both before and during the war, abandoned to their fate
-        many thousands fleeing for their lives.18
+        different places in the country. We came to Montreux.
     - who: David Boder
       start:
         sec: '1223.759'
@@ -5104,10 +5060,7 @@ recording:
       end:
         sec: '1246.954'
         mark: '00:20:46.954'
-      u: Only later the group leaders met with the organizations.Major international
-        Jewish organizations such as the Joint, World Jewish Congress and the He-Halutz
-        Zionist body had branches in Geneva, Switzerland. They engaged in rescue and
-        relief efforts on behalf of European Jewry.19
+      u: Only later the group leaders met with the organizations.
     - who: David Boder
       start:
         sec: '1246.954'
@@ -5141,14 +5094,7 @@ recording:
         sec: '1285.166'
         mark: '00:21:25.166'
       u: There were, err, no fights in our, our group. But next door, we saw how the
-        people were beaten. They were Jews from Holland.Breslauer is referring to
-        Bergen-Belsen’s “star camp,” so-called because inmates could wear their own
-        clothing but had to wear a yellow badge. The “star camp” was the largest of
-        the five satellite Belsen camps and was located next to the camp in which
-        Breslauer and his family were lodged. Most of the prisoners in the “star camp”
-        were Jews from the Netherlands. They were classified as “exchange Jews,” ostensibly
-        designated for potential exchange for German nationals under Allied rule whom
-        the Germans wished to repatriate.20
+        people were beaten. They were Jews from Holland.
     - who: David Boder
       start:
         sec: '1285.166'
@@ -5244,7 +5190,7 @@ recording:
       end:
         sec: '1308.783'
         mark: '00:21:48.783'
-      u: Yes, the so-called “Jewish Elder.”In German, “Judenältester.”21
+      u: Yes, the so-called “Jewish Elder.”
     - who: David Boder
       start:
         sec: '1308.783'
@@ -5276,10 +5222,7 @@ recording:
       end:
         sec: '1326.163'
         mark: '00:22:06.163'
-      u: 'We then came into an “Auffangsaal” and after six weeks they...Translator’s
-        note: Literally, something like a reception hall. “Auffang” in combination
-        with “lager” usually refers to a refugee’s camp. Breslauer probably means
-        a room, or a hall, in which refugees were received and housed.22'
+      u: 'We then came into an “Auffangsaal” and after six weeks they...
     - who: David Boder
       start:
         sec: '1326.163'
@@ -5362,8 +5305,7 @@ recording:
         sec: '1375.218'
         mark: '00:22:55.218'
       u: Unfortunately we don’t have relatives, only acquaintances. My father-in-law—God
-        bless him—was a very famous scholar.Since Mrs. Breslauer’s maiden name is
-        not indicated, the identity of her father could not be determined.23
+        bless him—was a very famous scholar.
     - who: David Boder
       start:
         sec: '1375.218'
@@ -5515,8 +5457,7 @@ recording:
       end:
         sec: '1479.374'
         mark: '00:24:39.374'
-      u: My wife is also learning a new trade.Like so many other survivors, the Breslauers
-        were diligently preparing to begin new postwar lives.24
+      u: My wife is also learning a new trade.
     - who: David Boder
       start:
         sec: '1479.374'

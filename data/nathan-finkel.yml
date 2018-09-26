@@ -2831,9 +2831,7 @@ recording:
       end:
         sec: '889.198'
         mark: '00:14:49.198'
-      u: 'Tell me. Do you know what the Hillel Foundation is?Hillel: The Foundation
-        for Jewish Campus Life was founded in 1923 in the United States, and is the
-        world’s largest Jewish campus organization.1'
+      u: 'Tell me. Do you know what the Hillel Foundation is?'
     - who: Nathan Finkel
       start:
         sec: '889.198'
