@@ -2842,7 +2842,7 @@ recording:
       end:
         sec: '69.295'
         mark: '00:01:09.295'
-      u: 'Stock broker.
+      u: 'Stock broker.'
     - who: David Boder
       start:
         sec: '69.295'
@@ -4856,7 +4856,7 @@ recording:
       end:
         sec: '1137.982'
         mark: '00:18:57.982'
-      u: 'Were you [frisked] there?
+      u: 'Were you [frisked] there?'
     - who: Arthur Breslauer
       start:
         sec: '1137.982'
@@ -5222,7 +5222,7 @@ recording:
       end:
         sec: '1326.163'
         mark: '00:22:06.163'
-      u: 'We then came into an “Auffangsaal” and after six weeks they...
+      u: 'We then came into an “Auffangsaal” and after six weeks they...'
     - who: David Boder
       start:
         sec: '1326.163'
